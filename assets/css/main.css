@@ -1724,3 +1724,11 @@ section,
 .about-img {
   text-align: center;
 }
+
+#hero iframe {
+  position: absolute;
+}
+
+#services img {
+  width: 150px;
+}
